@@ -60,5 +60,5 @@ python run_tracker.py
 ### Target website to scrape
 Paste url of website in main()
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE](UvanAdhithya-patch-1/LICENSE.md) file for details.
 
