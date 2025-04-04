@@ -49,8 +49,8 @@ python run_tracker.py
 ### Google Email Acces
 1. Visit [Google App Passwords](https://myaccount.google.com/apppasswords)
 2. Create a new project and copy the password
-3. Paste the password in PriceTracker.py send_email() module
-4. Type sender and reciever email in send_email() module
+3. Paste the password in [send_email()](https://github.com/UvanAdhithya/Price-Tracker/blob/ed23d8af892f369791279c082a53b131c2045010/PriceTracker.py#L163)
+4. Type sender and reciever in [Send_Email()](https://github.com/UvanAdhithya/Price-Tracker/blob/ed23d8af892f369791279c082a53b131c2045010/PriceTracker.py#L163)
 ### Chrome Driver Installation
 1. Visit [Google Chrome Labs](https://googlechromelabs.github.io/chrome-for-testing/)
 2. Download corresponding chrome driver version
