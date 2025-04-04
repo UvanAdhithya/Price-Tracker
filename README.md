@@ -1,5 +1,4 @@
 # Price-Tracker
-email is sent to user when price of garment has changed in clothing website
 ## About
 Price Tracker is a smart price monitoring tool built to help users catch the best deals on clothing. It automates the entire process — from scraping the product page to notifying you the moment a price changes.
 ## Key Features🔧
