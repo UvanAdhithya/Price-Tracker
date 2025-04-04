@@ -17,6 +17,7 @@ Price Tracker is a smart price monitoring tool built to help users catch the bes
 ## Installation
 ### Prerequisites
 - Python 3.12 or later
+- Chrome Driver (same version as chrome)
 - Python libraries required:
   - selenium
   - beautiful soup
@@ -45,7 +46,19 @@ pip install -r requirements.txt
 ```
 python run_tracker.py
 ```
-### Configuration
-#### Google Email Acces
-1.Visit [Google App Passwords](https://myaccount.google.com/apppasswords)
+## Configuration
+### Google Email Acces
+1. Visit [Google App Passwords](https://myaccount.google.com/apppasswords)
+2. Create a new project and copy the password
+3. Paste the password in main.py send_email() module
+4. Type sender and reciever email in send_email() module
+### Chrome Driver Installation
+1. Visit [Google Chrome Labs](https://googlechromelabs.github.io/chrome-for-testing/)
+2. Download corresponding chrome driver version
+3. Create new folder "webdrivers" in C:
+4. Move chromedriver.exe to said folder
+### Target website to scrape
+Paste url of website in main()
+## License
+This project is licensed under the GPL-3.0 License. See the LICENSE file for details.
 
