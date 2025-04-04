@@ -57,7 +57,7 @@ python run_tracker.py
 3. Create new folder "webdrivers" in C:
 4. Move chromedriver.exe to said folder
 ### Target website to scrape
-Paste url of website in main()
+Paste url in [Website](https://github.com/UvanAdhithya/Price-Tracker/blob/ed23d8af892f369791279c082a53b131c2045010/PriceTracker.py#L187)
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
